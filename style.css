@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --almost-withe: #fffdfa;
+    --dark-blue: #00001a;
+    --gunmetal: #se607a;
+    --vermillion: #f15051;
+    --yellow: #e9aa52;
+    --silver: #c5c6ce;
+}
+
+body {
+    padding: 1.75rem 1rem;
+    background-color: var(--almost-withe);
+}
